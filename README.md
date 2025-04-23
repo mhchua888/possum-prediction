@@ -1,2 +1,2 @@
 # possum-prediction
-Exploring the usage of Linear Regression to predict possum age
+School project: Exploring the usage of Linear Regression to predict possum age
